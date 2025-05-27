@@ -3,3 +3,7 @@
 ## <h3> this is an h3 header with two '#' in front of it
 There isn't really a "bottom space" to write a commit message, so I'm adding it here directly under the test. Because this is only a test.
 ![Image of Yaktocat, a bipedal cat with blue fur, wearing gold armor and a gold crown](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar="Hello, world!";
+```
